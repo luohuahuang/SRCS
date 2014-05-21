@@ -15,9 +15,10 @@ Detailed info
 * In SRCS – check out file: http://luohuahuang.com/2014/05/17/srcs-check-out-file/ - It implements check out a file with a specified version.
 * In SRCS – log: http://luohuahuang.com/2014/05/20/srcs-log/ - It implements a ‘log’ command to allow user to print all the metadata for a file.
 * In SRCS – diff: http://luohuahuang.com/2014/05/20/srcs-diff/ - It implements a ‘diff’ command to show diff for two versions.
+* All in One - SRCS – Shell Revision Control System: http://luohuahuang.com/2014/05/21/srcs-shell-revision-control-system/
 
 Contact
 ====
 You can reach me at
-Email: luohua.huang@gmail.com
-Blog: http://luohuahuang.com 
+* Email: luohua.huang@gmail.com
+* Blog: http://luohuahuang.com 
